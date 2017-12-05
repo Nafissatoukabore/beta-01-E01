@@ -38,7 +38,7 @@ export a number `num` with the value `42`
 export a boolean `bool` with the value `false`
 
 #### test `escapeStr`
-export a string `escapeStr` containing the characters \\, /, ', ", and `
+export a string `escapeStr` containing the special characters \\, /, ', ", and `
 
 #### test `spaced key`
 export a boolean `'spaced key'` with the value `true`
